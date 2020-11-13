@@ -1,0 +1,7 @@
+@tailwind base;
+/*aqui importamos los estilos base.*/
+
+@tailwind components;
+/*aqui extraemos componentes, y agregaos clases completas. su directiva @apply nos permite agregar directivas*/
+
+@tailwind utilities;
